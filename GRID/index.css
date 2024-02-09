@@ -1,0 +1,10 @@
+.Grid div{
+    background-color: blue;
+    padding:20px;
+    margin:20px
+
+}
+.Grid container{
+    display:grid;
+
+}
